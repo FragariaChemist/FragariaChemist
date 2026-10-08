@@ -1,11 +1,15 @@
 # Hi, I'm Kristina 👋
 
-I'm a QA Engineer working in laboratory informatics, with nearly a decade of previous experience in analytical chemistry.
+I'm a QA lead for LIMS and laboratory software, with nearly a decade of previous experience as an analytical chemist.
 
-My work focuses on software quality, laboratory workflows, LIMS, Microsoft Power Platform, and test strategy. I also have a background in Python and data science.
+I set test strategy, write and run test cases, groom testing tasks and bugs, and make the final QA call on releases. My current work is LIMS testing in Microsoft Power Apps and Dataverse, tracked in Azure DevOps.
 
-**Currently working with:** Power Apps, Azure DevOps, LIMS, software testing
+**Currently working with:** Power Apps, Dataverse, Azure DevOps Test Plans, LIMS
 
-**Technical background:** Python, SQL, data analysis, machine learning
+**Test automation, in progress:** Playwright, Postman
 
-**Previous life:** Analytical chemistry, method validation, LC-MS, laboratory quality systems
+**Data, from my 2024 training:** Python, SQL, pandas
+
+**Previous life:** Analytical chemistry, method validation, LC-MS, ISO 17025, laboratory quality systems
+
+**Portfolio:** [fragariachemist.github.io](https://fragariachemist.github.io/)
