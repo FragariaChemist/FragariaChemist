@@ -2,7 +2,7 @@
 
 I'm a QA lead for LIMS and laboratory software, with nearly nine years of previous experience as an analytical chemist.
 
-I set test strategy, write and run test cases, groom testing tasks and bugs, and make the final QA call on releases. My current work is LIMS testing in Microsoft Power Apps and Dataverse, tracked in Azure DevOps.
+I set test strategy, write and run test cases, triage bugs, and make the final QA call on releases. My current work is LIMS testing in Microsoft Power Apps and Dataverse, tracked in Azure DevOps.
 
 **Currently working with:** Power Apps, Dataverse, Azure DevOps Test Plans, LIMS
 
